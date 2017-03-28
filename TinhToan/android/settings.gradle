@@ -1,0 +1,3 @@
+rootProject.name = 'TinhToan'
+
+include ':app'
